@@ -1,0 +1,37 @@
+html {background-color: #ACD8DA;
+      margin:inherit;
+      padding: inherit;
+    font-style: normal;}
+
+a {color: #ACD8DA;
+  background-color: blue;
+      }
+
+.contactinfo {
+  align-items: baseline;
+  font-family: serif;
+  color: #010224;
+  margin: inherit;
+}
+
+.education {
+  margin: inherit;
+  table-layout: inherit;
+  align-items: baseline;
+  font-family: serif;
+  color: #010224;
+  table-layout: inherit;
+  border: 10px;}
+}
+
+
+.Skills {
+  margin: inherit;
+  align-items: baseline;
+  font-family: serif;
+  color: #010224;
+}
+
+ul.b {
+  list-style-type: square;
+}
